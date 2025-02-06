@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/vaja-za-git/.vs/vaja-za-git
+/vaja-za-git/vaja-za-git/bin/Debug
+/vaja-za-git/vaja-za-git/obj/Debug
+/.vs
